@@ -1,0 +1,10 @@
+INCA_libs/
+BSSLib.lib++/
+nWaveLog/
+.history/
+*.vcd
+*.fsdb
+*.log
+*.history
+*.conf
+sim.out
